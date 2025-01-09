@@ -1,6 +1,6 @@
 # AI-Project
-Repozytorium pod projekt z Podstaw Sztucznej Inteligencji
-Członkowie projektu:
+## Repozytorium pod projekt z Podstaw Sztucznej Inteligencji
+### Członkowie projektu:
 - Franciszek Dębicki
 - Cyprian Jurkowski
 - Kamil Kaplita
