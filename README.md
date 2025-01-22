@@ -27,4 +27,12 @@ This project aims to explore airline passenger satisfaction using machine learni
 - Apply K-means clustering to identify different passenger segments and understand their behavior.
 - Analyze the results and draw actionable insights.
 
+## Dataset Information
 
+The dataset used in this project is from [Kaggle - Airline Passenger Satisfaction](https://www.kaggle.com/datasets/harshitbansal/airline-passenger-satisfaction).
+
+- **Source**: Kaggle
+- **Link**: [https://www.kaggle.com/datasets/harshitbansal/airline-passenger-satisfaction](https://www.kaggle.com/datasets/harshitbansal/airline-passenger-satisfaction)
+- **Description**: This dataset contains information on passenger satisfaction with various attributes such as flight details, customer information, and satisfaction ratings (satisfied or dissatisfied).
+
+Make sure to check the dataset's original page for detailed information and usage terms.
